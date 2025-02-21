@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BossCash:jar">
+    <output-path>$PROJECT_DIR$/../../mc server/plugins</output-path>
+    <root id="archive" name="BossCash.jar">
+      <element id="module-output" name="BossCash" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../depe/spigot-api-1.19-R0.1-20220725.090125-47-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

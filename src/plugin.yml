@@ -1,0 +1,16 @@
+name: BossCash
+main: com.kosiara333.bosscash.Main
+version: 1.0
+api-version: 1.19
+
+commands:
+  drop:
+    description: "Pokazuje graczu aktualne szanse na drop"
+  turbodrop:
+    description: "Wlacza turbodrop zwiekszający drop o 10%"
+  turboexp:
+    description: "Wlacza turboexp wiekszajacy exp o 20%"
+  repair:
+    description: "Naprawia to co gracz trzyma w ręku"
+
+permissions:
